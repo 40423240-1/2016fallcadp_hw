@@ -29,7 +29,7 @@
 <v t="leo.20170113142724.7"><vh>封面投影片</vh>
 <v t="leo.20170113142724.8"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20170113142724.9" a="E"><vh>20160916</vh>
+<v t="leo.20170113142724.9"><vh>20160916</vh>
 <v t="leo.20170113142724.10" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.11"><vh>20160916</vh></v>
 </v>
@@ -40,7 +40,7 @@
 <v t="leo.20170113142724.15"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.16" a="E"><vh>20160923</vh>
+<v t="leo.20170113142724.16"><vh>20160923</vh>
 <v t="leo.20170113142724.17" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.18"><vh>20160923</vh></v>
 </v>
@@ -51,7 +51,7 @@
 <v t="leo.20170113142724.22"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.23" a="E"><vh>20160930</vh>
+<v t="leo.20170113142724.23"><vh>20160930</vh>
 <v t="leo.20170113142724.24" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.25"><vh>20160930</vh></v>
 </v>
@@ -62,7 +62,7 @@
 <v t="leo.20170113142724.29"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.30" a="E"><vh>20161007</vh>
+<v t="leo.20170113142724.30"><vh>20161007</vh>
 <v t="leo.20170113142724.31" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.32"><vh>20161007</vh></v>
 </v>
@@ -73,7 +73,7 @@
 <v t="leo.20170113142724.36"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.37" a="E"><vh>20161014</vh>
+<v t="leo.20170113142724.37"><vh>20161014</vh>
 <v t="leo.20170113142724.38" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.39"><vh>20161014</vh></v>
 </v>
@@ -84,7 +84,7 @@
 <v t="leo.20170113142724.43"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.44" a="E"><vh>20161021</vh>
+<v t="leo.20170113142724.44"><vh>20161021</vh>
 <v t="leo.20170113142724.45" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.46"><vh>20161021</vh></v>
 </v>
@@ -95,7 +95,7 @@
 <v t="leo.20170113142724.50"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.51" a="E"><vh>20161028</vh>
+<v t="leo.20170113142724.51"><vh>20161028</vh>
 <v t="leo.20170113142724.52" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.53"><vh>20161028</vh></v>
 </v>
@@ -106,7 +106,7 @@
 <v t="leo.20170113142724.57"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.58" a="E"><vh>20161104</vh>
+<v t="leo.20170113142724.58"><vh>20161104</vh>
 <v t="leo.20170113142724.59" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.60"><vh>20161104</vh></v>
 </v>
@@ -117,7 +117,7 @@
 <v t="leo.20170113142724.64"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.65" a="E"><vh>20161111</vh>
+<v t="leo.20170113142724.65"><vh>20161111</vh>
 <v t="leo.20170113142724.66" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.67"><vh>20161111</vh></v>
 </v>
@@ -128,7 +128,7 @@
 <v t="leo.20170113142724.71"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.72" a="E"><vh>20161118</vh>
+<v t="leo.20170113142724.72"><vh>20161118</vh>
 <v t="leo.20170113142724.73" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.74"><vh>20161118</vh></v>
 </v>
@@ -139,7 +139,7 @@
 <v t="leo.20170113142724.78"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.79" a="E"><vh>20161125</vh>
+<v t="leo.20170113142724.79"><vh>20161125</vh>
 <v t="leo.20170113142724.80" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.81"><vh>20161125</vh></v>
 </v>
@@ -150,7 +150,7 @@
 <v t="leo.20170113142724.85"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.86" a="E"><vh>20161202</vh>
+<v t="leo.20170113142724.86"><vh>20161202</vh>
 <v t="leo.20170113142724.87" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.88"><vh>20161202</vh></v>
 </v>
@@ -161,21 +161,18 @@
 <v t="leo.20170113142724.96"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.97" a="E"><vh>20161209</vh>
+<v t="leo.20170113142724.97"><vh>20161209</vh>
 <v t="leo.20170113142724.98" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.99"><vh>20161209</vh></v>
 </v>
 <v t="leo.20170113142724.100" a="E"><vh>上課內容</vh>
 <v t="leo.20170113142724.101"><vh>上課內容</vh></v>
 </v>
-<v t="leo.20170113142724.102" a="E"><vh>上課內容</vh>
-<v t="leo.20170113142724.103"><vh>上課內容</vh></v>
-</v>
 <v t="leo.20170113142724.104" a="E"><vh>心得</vh>
 <v t="leo.20170113142724.105"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.106" a="E"><vh>20161216</vh>
+<v t="leo.20170113142724.106"><vh>20161216</vh>
 <v t="leo.20170113142724.107" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.108"><vh>20161216</vh></v>
 </v>
@@ -186,7 +183,7 @@
 <v t="leo.20170113142724.112"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.113" a="E"><vh>20161223</vh>
+<v t="leo.20170113142724.113"><vh>20161223</vh>
 <v t="leo.20170113142724.114" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.115"><vh>20161223</vh></v>
 </v>
@@ -197,7 +194,7 @@
 <v t="leo.20170113142724.121"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.122" a="E"><vh>20161230</vh>
+<v t="leo.20170113142724.122"><vh>20161230</vh>
 <v t="leo.20170113142724.123" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.124"><vh>20161230</vh></v>
 </v>
@@ -208,7 +205,7 @@
 <v t="leo.20170113142724.128"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20170113142724.129" a="E"><vh>20170106</vh>
+<v t="leo.20170113142724.129"><vh>20170106</vh>
 <v t="leo.20170113142724.130" a="E"><vh>上課日期</vh>
 <v t="leo.20170113142724.131"><vh>20170106</vh></v>
 </v>
@@ -217,6 +214,17 @@
 </v>
 <v t="leo.20170113142724.134" a="E"><vh>心得</vh>
 <v t="leo.20170113142724.135"><vh>心得</vh></v>
+</v>
+</v>
+<v t="leo.20170113160513.1" a="E"><vh>20170113</vh>
+<v t="leo.20170113160513.2" a="E"><vh>上課日期</vh>
+<v t="leo.20170113160513.3"><vh>20170113</vh></v>
+</v>
+<v t="leo.20170113160513.4" a="E"><vh>上課內容</vh>
+<v t="leo.20170113160513.5"><vh>上課內容</vh></v>
+</v>
+<v t="leo.20170113160513.6" a="E"><vh>心得</vh>
+<v t="leo.20170113160513.7"><vh>心得</vh></v>
 </v>
 </v>
 </v>
@@ -283,7 +291,7 @@
 <v t="leo.20170113145034.1"><vh>40423240 W15</vh>
 <v t="leo.20170113145034.2"><vh>@edit W15.md</vh></v>
 </v>
-<v t="leo.20170113145032.1"><vh>40423240 W16</vh>
+<v t="leo.20170113145032.1" a="E"><vh>40423240 W16</vh>
 <v t="leo.20170113145032.2"><vh>@edit W16.md</vh></v>
 </v>
 <v t="leo.20170113145030.1"><vh>40423240 W17</vh>
@@ -464,26 +472,12 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 						
 </t>
-<t tx="leo.20170113142724.101">## 轉HTML
+<t tx="leo.20170113142724.101">## 上課內容
 
 
+使用SolveSpace
 
 
-
-
-
-
-</t>
-<t tx="leo.20170113142724.102">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20170113142724.103">##改http:
 
 
 
@@ -504,7 +498,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+學會怎麼轉檔 感覺很實用</t>
 <t tx="leo.20170113142724.106">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -535,7 +529,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20170113142724.110">##上課內容 
 
-連桿機構
+使用SolveSpace畫連桿機構
 
 
 </t>
@@ -552,7 +546,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
- </t>
+ 可以畫各種機構 很方便</t>
 <t tx="leo.20170113142724.113">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -608,7 +602,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+可以模擬實際機構的運動情況 對設計者更方便</t>
 <t tx="leo.20170113142724.122">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -634,7 +628,11 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 						
 </t>
-<t tx="leo.20170113142724.126">##繪製Mechanism Tutorial
+<t tx="leo.20170113142724.126">##上課內容 
+
+
+
+使用SolveSpace
 
 
 
@@ -652,14 +650,14 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+組合連桿機構</t>
 <t tx="leo.20170113142724.129">&lt;section&gt;
 @others
 &lt;/section&gt;
 </t>
 <t tx="leo.20170113142724.13">##上課內容
 
-中秋節放假
+中秋放假
 
 </t>
 <t tx="leo.20170113142724.130">&lt;section data-markdown&gt;
@@ -687,7 +685,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+點名</t>
 <t tx="leo.20170113142724.134">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -701,7 +699,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+點名</t>
 <t tx="leo.20170113142724.14">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -715,7 +713,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+放假</t>
 <t tx="leo.20170113142724.16">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -768,7 +766,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+跟上學期不同 這次是建立在自己的倉儲裡</t>
 <t tx="leo.20170113142724.23">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -814,7 +812,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20170113142724.29">##心得
 
 
-</t>
+建立自己用的網誌</t>
 <t tx="leo.20170113142724.3">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
@@ -893,7 +891,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20170113142724.36">##心得
 
 
-</t>
+分組作業 小組長辛苦了</t>
 <t tx="leo.20170113142724.37">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -968,7 +966,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+學會另一套繪圖軟體</t>
 <t tx="leo.20170113142724.44">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1049,7 +1047,6 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-
 </t>
 <t tx="leo.20170113142724.56">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -1064,7 +1061,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+感覺還蠻困難的</t>
 <t tx="leo.20170113142724.58">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1116,7 +1113,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+自評</t>
 <t tx="leo.20170113142724.65">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1171,7 +1168,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+期中考</t>
 <t tx="leo.20170113142724.72">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1199,8 +1196,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 </t>
 <t tx="leo.20170113142724.76">##上課內容 
 
-期中考週
-
+繪製四連桿機構
 
 
 </t>
@@ -1217,7 +1213,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 
 
 
-</t>
+沒畫過這種東西 還蠻好玩的</t>
 <t tx="leo.20170113142724.79">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1277,7 +1273,7 @@ Created by [40423240](https://40423240.github.io/2016fallcadp_hw/blog/)
 
 
 
-</t>
+運動會</t>
 <t tx="leo.20170113142724.86">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1309,7 +1305,11 @@ Created by [40423240](https://40423240.github.io/2016fallcadp_hw/blog/)
 
 						
 </t>
-<t tx="leo.20170113142724.90">## 畫圖+組合 
+<t tx="leo.20170113142724.90">## 上課內容
+
+
+
+使用SolveSpace
 
 
 
@@ -1330,7 +1330,7 @@ Created by [40423240](https://40423240.github.io/2016fallcadp_hw/blog/)
 
 
 
-</t>
+繪圖軟體的種類有好多種 要依自己的情況選擇合適的才比較省事</t>
 <t tx="leo.20170113142724.97">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -1358,5 +1358,49 @@ Created by [40423240](https://40423240.github.io/2016fallcadp_hw/blog/)
 <t tx="leo.20170113145042.1"></t>
 <t tx="leo.20170113145050.1"></t>
 <t tx="leo.20170113145053.1"></t>
+<t tx="leo.20170113160513.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+</t>
+<t tx="leo.20170113160513.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113160513.3">## 第十八週
+
+</t>
+<t tx="leo.20170113160513.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113160513.5">##上課內容
+
+
+
+期末總結</t>
+<t tx="leo.20170113160513.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20170113160513.7">##心得
+
+
+
+期末總結</t>
 </tnodes>
 </leo_file>
